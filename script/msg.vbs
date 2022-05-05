@@ -1,0 +1,1 @@
+a = MsgBox ("SCORE : 3 , BEST SCORE : 3", vbOK, "SNAKE SAYS")
